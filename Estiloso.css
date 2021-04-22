@@ -1,0 +1,50 @@
+#cuerpo {
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#cerebro {
+    background-color: bisque;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.division {
+    margin: 35px;
+    font-size: medium;
+    text-align: center;
+}
+
+body img {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+#trishula {
+    background-color: lightslategray;
+    width: 320px;
+    display: inline-block;
+}
+
+#blossom {
+    background-color: goldenrod;
+    width: 320px;
+    display: inline-block;
+}
+
+#pot {
+    background-color: #cd7f32;
+    width: 320px;
+    display: inline-block;
+}
+
+#mirror {
+    background-color: lightskyblue;
+    width: 320px;
+    display: inline-block;
+}
