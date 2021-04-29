@@ -48,3 +48,13 @@ body img {
     width: 320px;
     display: inline-block;
 }
+
+.bttn {
+    background-color: whitesmoke;
+    width: 200px;
+    text-align: center;
+}
+
+#texto {
+    font-size: medium;
+}
